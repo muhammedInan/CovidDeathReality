@@ -1,5 +1,10 @@
 {
-    "require": {
-        "symfony/filesystem": "^5.2"
-    }
+    
+    "autoload": {
+        "psr-4":{
+        "Router\\": "routes/"
+        }
+    },
+ 
+    "require": {}
 }
