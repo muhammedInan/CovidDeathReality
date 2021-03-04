@@ -1,0 +1,100 @@
+LAIBE*SUZANNE/                                                                  21926011169259VENISSIEUX                                                  201901290100431                             
+MONTIFRET*DOMINIQUE/                                                            11962072318033BOURGES                                                     201901110100417                             
+MICHAUD*GILBERT/                                                                11931051271270MACON                                                       201901190100424                             
+JOUD*GERARD/                                                                    11945011801053BOURG-EN-BRESSE                                             201901200100425                             
+SCHWAB*JOSETTE ELIANE/                                                          21931010769382LYON 2E  ARRONDISSEMENT                                     2018120501004223                            
+BRAVO*LUCIENNE LOUISE/                                                          21927100169382LYON 2E  ARRONDISSEMENT                                     2018121301004226                            
+BORNALLET*JEANNINE PAULETTE/                                                    21930070501273NEUVILLE-SUR-AIN                                            2018121401004227                            
+BORNE*RENE ALEXANDRE/                                                           11922110138516LA TRONCHE                                                  2018121901004230                            
+CLERC*JOSEPH/                                                                   11931081901361SAINT-JEAN-DE-NIOST                                         2018121901004231                            
+REQUOI*JEANNE MARYSE/                                                           21931102069382LYON 2E  ARRONDISSEMENT                                     20181229010041                              
+MOUVAND*YVONNE CELINE/                                                          21927012601363SAINT-JEAN-LE-VIEUX                                         20181229010045                              
+PITOLLAT*GERARD MARIUS/                                                         11945011574225RUMILLY                                                     20190101010048                              
+DESCHAUD*FERNAND JEAN/                                                          11938050301345SAINT-DENIS-EN-BUGEY                                        201901130100420                             
+DEMEY*ANNE MARIE THERESE/                                                       21930040159086BOESCHEPE                                                   201901060100411                             
+GIMENEZ*JOSEPHINE/                                                              21925101569385LYON 5E  ARRONDISSEMENT                                     201901050100413                             
+LOHSE*ELSA ELFRIEDE/                                                            21919110299109LEIPZIG                       ALLEMAGNE                     201901090100416                             
+HADJ MIMOUNE*FATIMA/                                                            21940041399352EL-FEHOUL                     ALGERIE                       201901170100422                             
+GIRARD*GENEVIEVE MARIE MARGUERITE/                                              21931020461006ARGENTAN                                                    201901260100430                             
+VERT*SUZANNE JEANNE MARIA/                                                      21925062315045CHAUDES-AIGUES                                              201901120100418                             
+SAGGIANTE*JACQUELINE ALICE/                                                     21933030201004AMBERIEU-EN-BUGEY                                           201901130100419                             
+BELLET*MARIUS JOSEPH/                                                           11921041205179VEYNES                                                      201901130100421                             
+BOREL*JOSETTE MARIE-LOUISE/                                                     21931031969381LYON 1ER ARRONDISSEMENT                                     201901230100427                             
+LANET*FRANCO VICTORIO/                                                          11926031803190MOULINS                                                     20190101010042                              
+VEILLET*ALPHONSE REMI LOUIS/                                                    11928033007301SAINT-VICTOR                                                20181230010043                              
+NEVERS*JACQUES LOUIS GABRIEL/                                                   11924122469386LYON 6E  ARRONDISSEMENT                                     20181231010044                              
+DUMAIL*JEANINE RENEE/                                                           21940041601053BOURG-EN-BRESSE                                             20190102010046                              
+ROUX*SERGE/                                                                     11953040301053BOURG-EN-BRESSE                                             201901060100412                             
+MAYOT*JOSIANE RAYMONDE/                                                         21948100101053BOURG-EN-BRESSE                                             201901090100415                             
+BENHASSEN*LALIA/                                                                21936010199352ORLEANSVILLE                  ALGERIE                       201901040100410                             
+SEYTIER*JEAN FRANCOIS/                                                          11935100232013AUCH                                                        201901290100432                             
+CHARVET*GEORGES ALBERT/                                                         11937032569382LYON 2E  ARRONDISSEMENT                                     20190103010049                              
+MAYEN*DANIEL/                                                                   11947012238196JALLIEU                                                     20190103010047                              
+DUFEU*MAX/                                                                      11947041269383LYON 3E  ARRONDISSEMENT                                     201812120100722                             
+LAURENT*JOSETTE AUGUSTA MARGUERITE/                                             21945060426129EYMEUX                                                      201812140100723                             
+GAGET*MARIE LOUISE LAURENCE/                                                    21924122301014ARBENT                                                      201812300101435                             
+LAPALUS*ROBERT/                                                                 11937112171270MACON                                                       201812180102621                             
+BRAILLON*ANDRE LOUIS/                                                           11958030669264VILLEFRANCHE-SUR-SAONE                                      20181230010306                              
+VUAILLAT*MICHEL ELIE MARC/                                                      11929052539068LES BOUCHOUX                                                201812130103240                             
+POCHET*RENEE YVETTE CELINA/                                                     21926042757463METZ                                                        2018122001033118                            
+DAILLET*CEDRIC PAUL JACQUES/                                                    11978022162041ARRAS                                                       2018121801033115                            
+CHEVALIER*RENE JEAN/                                                            11931053101033BELLEGARDE-SUR-VALSERINE                                    2018122901033121                            
+BEATRIX*YVONNE MARIE/                                                           21921112401126COUPY                                                       2018122401033119                            
+THIENNOT*ROLAND ANDRE/                                                          11925011336204SAINT-MICHEL-EN-BRENNE                                      2018123001033122                            
+VERNEY*LUCIE EDWIGE FELICIE/                                                    21925122001436VESANCY                                                     20190106010331                              
+BERLIOZ*JOSEPHINE REGINA/                                                       21931070238014ARANDON                                                     201901130103419                             
+BONNARD*MADELEINE JEANNE/                                                       21929010273025AVRESSIEUX                                                  201901140103421                             
+BENOLLET*HENRIETTE MARIE ANTHELMINE/                                            21932021501454VIRIGNIN                                                    201901120103422                             
+MONZILIARD*JACQUELINE JEANNE/                                                   21948101269383LYON 3E  ARRONDISSEMENT                                     201901170103427                             
+TANG*AUE ROXANE/                                                                21945041999333SAMBAVA                       MADAGASCAR                    201901180103430                             
+GIRAUDON*LUCIENNE/                                                              21929072971342PARAY-LE-MONIAL                                             201901190103431                             
+DOUSSOT*DIDIER MARC LUCIEN/                                                     11954031369199SAINT-FONS                                                  201901150103424                             
+PENET*ELISE MARCELLE/                                                           21931073199241THAN HER, PROVINCE DE CAMMON  LAOS                          201901180103432                             
+CHANTEAU*ROBERTE MARIE/                                                         21921021869383LYON 3E  ARRONDISSEMENT                                     201901190103433                             
+BESSON*GILBERT ANDRE/                                                           11948092001265MONTREAL-LA-CLUSE                                           201901200103434                             
+SALVATORE*ANTOINE/                                                              11929122399127CASTELGUIDONE                 ITALIE                        201901190103435                             
+TOMAS*EPIMACO/                                                                  11947071901053BOURG-EN-BRESSE                                             201901210103437                             
+CASSETTE*MARIE NOELLE/                                                          21948011401269NANTUA                                                      201901080103413                             
+RAMEL*GILBERT JOSEPH/                                                           11932082801034BELLEY                                                      201901130103420                             
+VAUCHIER*JEANNE MARIE HORTENSE LEONTINE/                                        21933081025219EPENOY                                                      201901180103428                             
+MANIN*FRANCK JACQUES/                                                           11967111501034BELLEY                                                      201901170103429                             
+GIREL*LUCIEN PIERRE/                                                            11927120601082CHANAY                                                      201901250103441                             
+LUGAND*BERNARD/                                                                 11953031401034BELLEY                                                      20190101010343                              
+MAURY*AIMEE YVONNE/                                                             21926051019011ARNAC-POMPADOUR                                             20190102010347                              
+PINETTI*ODYLE ARMIDA/                                                           21952022401034BELLEY                                                      20190103010348                              
+BARET*MARTHE FRANCOISE JOSEPHINE/                                               21927061801034BELLEY                                                      20190105010349                              
+FELIX*GERMAIN YVON/                                                             11956040974243SAINT-JULIEN-EN-GENEVOIS                                    20190101010344                              
+BOBILLON*BERNARD EMILE/                                                         11946091201034BELLEY                                                      20190102010345                              
+CASSAR*MARIE-THERESE/                                                           21943080999351SFAX                          TUNISIE                       20190103010346                              
+BERT*JEAN FRANCOIS JOSEPH/                                                      11927020301415TALISSIEU                                                   2018123001034299                            
+VIALE*MARIE GUSTINE/                                                            21923052273330YENNE                                                       201901080103411                             
+DION*GEORGETTE/                                                                 21914100118042LA CELLE                                                    201901060103410                             
+GLANGETAS*ALAIN GEORGES JEAN/                                                   11944092149356TREMONT                                                     201901080103412                             
+SOQUET*GILBERTE/                                                                21937051938320PORCIEU-AMBLAGNIEU                                          201901100103415                             
+CHRISTMANN*WILLI/                                                               11925032699109BILLIGHEIM                    ALLEMAGNE                     201901080103414                             
+MONNIN*PAUL MAURICE MARCEL/                                                     11932022539130NANCHEZ                                                     2018123001034298                            
+VERDUN*MONIQUE/                                                                 21931052675104PARIS 4E  ARRONDISSEMENT                                    201901120103418                             
+ARNOLDI*HUMBERT AUGUSTE/                                                        11939052873070CHAMPAGNEUX                                                 201901120103417                             
+FRIOUD*MICHEL GEORGES/                                                          11933122590010BELFORT                                                     201901220103439                             
+PASQUIER*MARIE ALEXANDRINE MARCELLE/                                            21921021601133CRESSIN-ROCHEFORT                                           201901210103436                             
+CAPORUSSO*RODOLFO/                                                              11940040699127VALLEROTONDA                  ITALIE                        201901110103416                             
+SOUBEYRAT*NATHALIE YVETTE/                                                      21964041338053BOURGOIN-JALLIEU                                            201901140103423                             
+ODINI*EUGENE LAURENT/                                                           11926011201074CHALAMONT                                                   20190101010342                              
+DUNAND*JEANNE/                                                                  21923100101193IZIEU                                                       201901220103438                             
+GAILLARD*AIMEE JULIETTE/                                                        21932112773330YENNE                                                       201901240103440                             
+SONZOGNI*MARIA/                                                                 21930081999127BREMBILLA                     ITALIE                        2018122901034297                            
+PETROUD*LOUIS LAURENT/                                                          11925080101442VIEU                                                        20181231010341                              
+COUTURIER*PATRICK/                                                              11958080901034BELLEY                                                      20181214010367                              
+SOUTEYRAT*LOUIS GUY LAURENT JOSEPH/                                             11950031742246SAINT-JULIEN-MOLIN-MOLETTE                                  20190108010411                              
+GRIMAND*HELENE ANTOINETTE/                                                      21933100701049LA BOISSE                                                   201812310104920                             
+SCHEFFER*MARTINE EVELYNE/                                                       21950082469382LYON 2E  ARRONDISSEMENT                                     201901200105345                             
+MOIROD*GERARD PIERRE JOSEPH/                                                    11939032039475SAINT-AMOUR                                                 201901220105346                             
+TOLLIM*MARIE SABRINA/                                                           21980020697414SAINT-LOUIS                   LA REUNION                    201901150105348                             
+ALAIX*ROGER ANTOINE/                                                            11950041469382LYON 2E  ARRONDISSEMENT                                     201901230105351                             
+PEISSET*LUCIENNE CELINE/                                                        21933050901053BOURG-EN-BRESSE                                             201901240105354                             
+CIRRITO*ANTONIO/                                                                11949113099350TANGER                        MAROC                         2018091201053604                            
+YONET*MAURICE/                                                                  11931061124101CHAMPS-ROMAIN                                               2018103001053605                            
+CHAMBARD*BERTHE ANGELE/                                                         21929051601451VIRIAT                                                      2018102801053600                            
+CHARNAY*RENEE SIMONE/                                                           21927041401115CONFRANCON                                                  2018102701053602                            
+NOEL*HELENE MATHILDE/                                                           21925010655181ETAIN                                                       201901100105326                             
+APPERT*MAURICETTE LUCETTE CHARLOTTE/                                            21928030751454REIMS   
